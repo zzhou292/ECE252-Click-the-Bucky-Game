@@ -1,0 +1,9 @@
+reset
+as whacos.asm
+as bucky_pixels.asm
+as bascom.asm
+as whacabucky.asm
+ld whacos.obj
+ld bucky_pixels.obj
+ld bascom.obj
+ld whacabucky.obj

@@ -1,0 +1,7 @@
+reset
+as whacos.asm
+as testmouseclick.asm
+as bascom.asm
+ld whacos.obj
+ld testmouseclick.obj
+ld bascom.obj

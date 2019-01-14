@@ -1,0 +1,5 @@
+reset
+as whacos.asm
+as testbuckyclick.asm
+ld whacos.obj
+ld testbuckyclick.obj
